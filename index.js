@@ -14,7 +14,7 @@ function yourAnimal() {
 function add2(n) {
   const two = 2
   
-  // Swapped const and return positions
+  // Swapped 'const' and 'return' positions
   
  return n + two
  
