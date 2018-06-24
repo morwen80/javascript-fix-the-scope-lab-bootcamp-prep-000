@@ -9,11 +9,12 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   // animal = cat was added. REturn animal was inside function
-  animal = "cat"
+  animal = "cat";
+  return animal
   
 }
 
-return animal;
+
 
 function add2(n) {
   const two = 2
