@@ -5,8 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  // animal = 'cat' was added. 
-  animal = "cat";
+  animal = "cat"; // animal = 'cat' was added.
   return animal
 }
 
